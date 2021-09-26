@@ -1,0 +1,18 @@
+.header-container{
+   text-align: center;
+   background-color: rgba(187, 177, 177, 0.781);
+   padding: 10px;
+   padding-bottom: 10px;
+   margin-bottom: 2px;
+}
+.heading{
+   font-size: 60px;
+   line-height: 0;
+   color: rgba(76, 0, 255, 0.842);
+}
+.budget{
+   color: green;
+}
+#budget{
+   line-height: 5px;
+}

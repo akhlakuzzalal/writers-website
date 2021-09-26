@@ -1,0 +1,101 @@
+[
+   {
+      "Occupation": "writer",
+      "img": "https://blog.daraz.com.bd/wp-content/uploads/2021/02/humayun-150x150.jpg",
+      "book": "Himu",
+      "born": "13 November 1948",
+      "key": "writer1",
+      "name": "Humayun Ahmed",
+      "value": 20000
+   },
+   {
+      "Occupation": "writer",
+      "img": "https://blog.daraz.com.bd/wp-content/uploads/2021/02/rabithakur-200x200.jpg",
+      "book": "Chokher bali",
+      "born": "7 May 1861",
+      "key": "writer2",
+      "name": "Rabindranath Thakur",
+      "value": 30000
+   },
+   {
+      "Occupation": "writer",
+      "img": "https://blog.daraz.com.bd/wp-content/uploads/2021/02/sharat-200x200.jpg",
+      "book": "debdas",
+      "born": "15 September 1876",
+      "key": "writer3",
+      "name": "Sarat Chandra Chattopadhyay",
+      "value": 25000
+   },
+   {
+      "Occupation": "writer",
+      "img": "https://blog.daraz.com.bd/wp-content/uploads/2021/02/Taslima-Nasreen-200x200.jpg",
+      "book": "poncho konna",
+      "born": "25 August 1962",
+      "key": "writer4",
+      "name": "Taslima Nasrin",
+      "value": 19000
+   },
+   {
+      "Occupation": "writer",
+      "img": "https://blog.daraz.com.bd/wp-content/uploads/2021/02/manik-1-200x200.jpg",
+      "book": "putul nacher Eti kotha",
+      "born": "19 May 1908",
+      "key": "writer5",
+      "name": "Manik Bandopadhyay",
+      "value": 27000
+   },
+   {
+      "Occupation": "writer",
+      "img": "https://blog.daraz.com.bd/wp-content/uploads/2021/02/shamsur-rahman-150x150.jpg",
+      "book": "Nirbachito 100 kobita",
+      "born": "23 October 1929",
+      "key": "writer6",
+      "name": "Shamsur Rahman",
+      "value": 22000
+   },
+   {
+      "Occupation": "writer",
+      "img": "https://blog.daraz.com.bd/wp-content/uploads/2021/02/ahmed-sofa-200x200.jpg",
+      "book": "Joddopi amar guru",
+      "born": "30 June 1943",
+      "key": "writer7",
+      "name": "Ahmed Sofa",
+      "value": 24500
+   },
+   {
+      "Occupation": "writer",
+      "img": "https://blog.daraz.com.bd/wp-content/uploads/2021/02/anisul_hoque_0-200x200.jpg",
+      "book": "Sera dosh Golpo",
+      "born": "October 27, 1952",
+      "key": "writer8",
+      "name": "Anisul Hoq",
+      "value": 29800
+   },
+   {
+      "Occupation": "writer",
+      "img": "https://blog.daraz.com.bd/wp-content/uploads/2021/02/jibonananda-das-image-200x200.jpg",
+      "book": "Abaar asibo fire",
+      "born": "17 February 1899",
+      "key": "writer9",
+      "name": "Jibanananda Das",
+      "value": 26780
+   },
+   {
+      "Occupation": "writer",
+      "img": "https://blog.daraz.com.bd/wp-content/uploads/2021/02/zahir-200x200.jpg",
+      "book": "Sesh bikeler meye",
+      "born": "19 August 1935",
+      "key": "writer10",
+      "name": "Zahir Raihan",
+      "value": 25000
+   },
+   {
+      "Occupation": "writer",
+      "img": "https://blog.daraz.com.bd/wp-content/uploads/2021/02/Satyajit-Ray-sketch-150x150.jpg",
+      "book": "Feluda somogro",
+      "born": "2 May 1921",
+      "key": "writer11",
+      "name": "Satyajit Ray",
+      "value": 20000
+   }
+]

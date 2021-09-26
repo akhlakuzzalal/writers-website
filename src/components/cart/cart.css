@@ -1,0 +1,25 @@
+
+.cart-detail{
+   display: flex;
+   align-items: center;
+}
+.single-cart{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   background-color: rgba(210, 105, 30, 0.452);
+   border-radius: 20px;
+   padding: 3px 6px;
+   padding-right: 18px;
+   margin-top: 10px;
+}
+.single-cart img{
+   height: 60px;
+   margin-right: 8px;
+   border-radius: 50%;
+}
+.cross{
+   color: crimson;
+   font-size: 25px;
+   cursor: pointer;
+}

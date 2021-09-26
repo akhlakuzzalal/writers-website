@@ -1,0 +1,24 @@
+.container{
+   display: grid;
+   padding-top: 15px;
+   grid-template-columns: 3fr 1fr;
+   background-color: rgba(122, 137, 151, 0.11);
+}
+.Writers-container{
+   display: grid;
+   grid-template-columns: repeat(3, 1fr);
+}
+.cart-container{
+   margin-right: 20px;
+   border-left: 1px solid gray;
+   padding-left: 10px;
+   text-align: center;
+}
+#cart-heading{
+   color: rgb(64, 184, 64);
+}
+.payable-ammount{
+   color: darkmagenta;
+   font-size: x-large;
+   font-weight: 700;
+}
